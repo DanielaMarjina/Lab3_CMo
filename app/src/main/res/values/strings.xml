@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorul3</string>
+    <string name="view_info">View info</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="sort">Sort</string>
+    <string name="select">Select</string>
+    <string name="share">Share</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+</resources>
